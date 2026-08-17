@@ -354,8 +354,8 @@ footer span {
   }
 
   .card-icon-pokemon {
-    width: 72px;
-    height: 72px;
+    width: 88px;
+    height: 88px;
     transform: none;
   }
 
@@ -366,6 +366,11 @@ footer span {
 
   .category-card:first-child h3 {
     transform: none;
+  }
+
+  .category-card:nth-child(3) .card-icon {
+    width: 62px;
+    height: 62px;
   }
 
   .contact {
