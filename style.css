@@ -347,14 +347,16 @@ footer span {
   }
 
   .card-icon {
-    max-width: 68px;
-    height: 58px;
+    width: 78px;
+    height: 72px;
+    object-fit: contain;
+    margin-bottom: 14px;
   }
 
   .card-icon-pokemon {
-    width: 62px;
-    height: 62px;
-    transform: scale(1.2);
+    width: 72px;
+    height: 72px;
+    transform: none;
   }
 
   .category-card h3 {
