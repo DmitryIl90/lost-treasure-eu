@@ -347,16 +347,19 @@ footer span {
   }
 
   .card-icon {
-    width: 78px;
+    width: 72px;
     height: 72px;
     object-fit: contain;
-    margin-bottom: 14px;
   }
 
   .card-icon-pokemon {
     width: 88px;
     height: 88px;
     transform: none;
+  }
+
+  .card-icon-car {
+    width: 84px;
   }
 
   .category-card h3 {
